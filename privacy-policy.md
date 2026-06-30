@@ -21,11 +21,11 @@ BitSplit is an offline arcade game. We do **not** require an account, show ads, 
 
 The App does not collect, transmit, or sell:
 
-- name, email address, phone number, or other contact details  
-- location data  
-- device identifiers for tracking or advertising  
-- payment information (the App has no in-app purchases)  
-- photos, files, contacts, or calendar data  
+- name, email address, phone number, or other contact details
+- location data
+- device identifiers for tracking or advertising
+- payment information (the App has no in-app purchases)
+- photos, files, contacts, or calendar data
 - audio recordings (the App does **not** use your microphone)
 
 ---
@@ -85,8 +85,8 @@ Locally stored game data remains on your device until you clear app data or unin
 
 Depending on your location (including the EEA/UK under GDPR, or California under CCPA/CPRA), you may have rights regarding personal data. Because BitSplit does not collect or process personal data, most of these rights are not applicable. You can always:
 
-- delete local App data via your device settings, or  
-- uninstall the App  
+- delete local App data via your device settings, or
+- uninstall the App
 
 To exercise any privacy-related request, email **support@bitsplit.app**.
 
@@ -112,14 +112,14 @@ Website: **https://bitsplit.app**
 
 App identifiers:
 
-- iOS: `com.xarvel.bitsplit`  
+- iOS: `com.xarvel.bitsplit`
 - Android: `com.xarvel.bitsplit`
 
 ---
 
 ## Store Console Reference (for submission)
 
-Use the public URL **https://bitsplit.app/privacy** in App Store Connect and Google Play Console.
+Use the public URL **https://xarvel.github.io/BitSplitDocs/privacy-policy** in App Store Connect and Google Play Console.
 
 ### Apple App Store Connect — App Privacy
 
