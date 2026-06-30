@@ -5,7 +5,7 @@
 
 This Privacy Policy describes how **BitSplit** (“the App”), published by **IL DARK** (“we”, “us”, “our”), handles information when you use the mobile application available on the Apple App Store and Google Play.
 
-If you have questions, contact us at **support@bitsplit.app**.
+If you have questions, contact us at **valiullin.arthur.dev@gmail.com** or visit our [Support page](https://xarvel.github.io/BitSplitDocs/support).
 
 ---
 
@@ -21,11 +21,11 @@ BitSplit is an offline arcade game. We do **not** require an account, show ads, 
 
 The App does not collect, transmit, or sell:
 
-- name, email address, phone number, or other contact details
-- location data
-- device identifiers for tracking or advertising
-- payment information (the App has no in-app purchases)
-- photos, files, contacts, or calendar data
+- name, email address, phone number, or other contact details  
+- location data  
+- device identifiers for tracking or advertising  
+- payment information (the App has no in-app purchases)  
+- photos, files, contacts, or calendar data  
 - audio recordings (the App does **not** use your microphone)
 
 ---
@@ -71,7 +71,7 @@ Distribution platforms (Apple App Store, Google Play) may collect information ab
 
 BitSplit is suitable for general audiences (App Store age rating 4+; Google Play Everyone). We do not knowingly collect personal information from anyone, including children under 13 (or under 16 where applicable under GDPR). Because we do not collect personal data, no parental consent mechanism is required for data collection—we simply do not collect it.
 
-If you believe we have inadvertently received personal information about a child, contact **support@bitsplit.app** and we will delete it.
+If you believe we have inadvertently received personal information about a child, contact **valiullin.arthur.dev@gmail.com** and we will delete it.
 
 ---
 
@@ -85,10 +85,10 @@ Locally stored game data remains on your device until you clear app data or unin
 
 Depending on your location (including the EEA/UK under GDPR, or California under CCPA/CPRA), you may have rights regarding personal data. Because BitSplit does not collect or process personal data, most of these rights are not applicable. You can always:
 
-- delete local App data via your device settings, or
-- uninstall the App
+- delete local App data via your device settings, or  
+- uninstall the App  
 
-To exercise any privacy-related request, email **support@bitsplit.app**.
+To exercise any privacy-related request, email **valiullin.arthur.dev@gmail.com**.
 
 ---
 
@@ -107,12 +107,12 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 ## Contact Us
 
 **IL DARK**  
-Email: **support@bitsplit.app**  
+Email: **valiullin.arthur.dev@gmail.com**  
 Website: **https://bitsplit.app**
 
 App identifiers:
 
-- iOS: `com.xarvel.bitsplit`
+- iOS: `com.xarvel.bitsplit`  
 - Android: `com.xarvel.bitsplit`
 
 ---
