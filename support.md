@@ -13,7 +13,6 @@ Need help with **BitSplit**? This page covers how to play, common questions, and
 For bugs, feedback, or privacy questions:
 
 - **Email:** [valiullin.arthur.dev@gmail.com](mailto:valiullin.arthur.dev@gmail.com)
-- **Website:** [https://bitsplit.app](https://bitsplit.app)
 
 We typically respond within a few business days.
 

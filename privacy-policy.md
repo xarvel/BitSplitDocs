@@ -107,8 +107,7 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 ## Contact Us
 
 **IL DARK**  
-Email: **valiullin.arthur.dev@gmail.com**  
-Website: **https://bitsplit.app**
+Email: **valiullin.arthur.dev@gmail.com**
 
 App identifiers:
 
